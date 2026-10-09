@@ -1,1 +1,3 @@
-# Campus_energy_26me5a4212
+#smart campus energy project
+This repository contains my week one hands on python and pandas assignments.
+Created by:Suresh Yelliboina 
